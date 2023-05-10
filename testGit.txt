@@ -1,5 +1,15 @@
 Hello World!
 Good day
 Goodbye
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+I am here
+=======
 This is Egor
 
+>>>>>>> 534ffdf363418db2de61b8edb084139a3d6cb592
+=======
+This is Egor
+
+>>>>>>> a1f09c45c9f11b41ffd167541df1913aaacd9ea9
